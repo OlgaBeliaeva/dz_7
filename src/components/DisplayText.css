@@ -1,0 +1,6 @@
+   .display-text {
+    color: rgb(212, 161, 238);
+    text-align: center;
+    margin-top: 20px;
+    text-shadow: 2px 2px 2px rgba(93, 193, 226, 0.5); /* Тень для букв */
+  }
